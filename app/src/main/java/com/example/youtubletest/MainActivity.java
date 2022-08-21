@@ -71,7 +71,7 @@ public class MainActivity extends  YouTubeBaseActivity  {
         super.onActivityResult(requestCode, resultCode, data);
         if(requestCode==1)
         {
-            Toast.makeText(this, "Lỗi Rồi", Toast.LENGTH_SHORT).show();
+            Toast.makeText(this, "Lỗi Rồi sao t ko chuyển đc qua android", Toast.LENGTH_SHORT).show();
         }
     }
     public void getPlaylist(String url,Callback callback)
