@@ -39,7 +39,7 @@ public class MainActivity extends  YouTubeBaseActivity  {
     int count=0;
     YouTubePlayer myPlay;
     CustomAdapter customAdapter;
-    /// FUCK DAT
+    /// ah đc r
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
